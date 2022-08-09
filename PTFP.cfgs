@@ -1,7 +1,7 @@
 {
   "ip": "4.tcp.eu.ngrok.io",
   "port": 11744,
-  "loader": "https://github.com/Undixd/swf/raw/main/Loader.swf",
+  "loader": "Loader.swf",
   "library": "https://github.com/Undixd/swf/raw/main/library.swf",
   "resources": "https://github.com/Undixd/ress/raw/main/resources"
 }
