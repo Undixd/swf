@@ -3,5 +3,5 @@
   "port": 15242,
   "loader": "Loader.swf",
   "library": "https://github.com/Undixd/swf/raw/main/library.swf",
-  "resources": " http://54.36.175.134"
+  "resources": "https://github.com/Undixd/PTFP/raw/main/resources"
 }
